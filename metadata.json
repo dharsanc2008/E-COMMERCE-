@@ -1,0 +1,6 @@
+{
+  "name": "PA Atelier | Architectural Living & Design Objects",
+  "description": "Curated digital storefront for modern architectural furniture, lighting, stoneware ceramics, and heirloom textiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
